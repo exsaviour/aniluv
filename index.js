@@ -8,6 +8,7 @@ var path = require('path');
 var session = require('express-session');
 var methodOverride = require('method-override');
 
+
 var app = module.exports = express();
 
 // set our default template engine to "ejs"
